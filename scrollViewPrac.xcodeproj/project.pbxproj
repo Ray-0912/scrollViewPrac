@@ -14,6 +14,7 @@
 		B445EF38241BC3210042FC61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B445EF37241BC3210042FC61 /* Assets.xcassets */; };
 		B445EF3B241BC3210042FC61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B445EF3A241BC3210042FC61 /* Preview Assets.xcassets */; };
 		B445EF3E241BC3220042FC61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B445EF3C241BC3220042FC61 /* LaunchScreen.storyboard */; };
+		B445EF46241BC3710042FC61 /* cardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B445EF45241BC3710042FC61 /* cardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B445EF3A241BC3210042FC61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B445EF3D241BC3220042FC61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B445EF3F241BC3220042FC61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B445EF45241BC3710042FC61 /* cardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B445EF3F241BC3220042FC61 /* Info.plist */,
 				B445EF32241BC31E0042FC61 /* scrollViewPrac.xcdatamodeld */,
 				B445EF39241BC3210042FC61 /* Preview Content */,
+				B445EF45241BC3710042FC61 /* cardView.swift */,
 			);
 			path = scrollViewPrac;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				B445EF2F241BC31E0042FC61 /* AppDelegate.swift in Sources */,
 				B445EF36241BC31E0042FC61 /* ContentView.swift in Sources */,
 				B445EF31241BC31E0042FC61 /* SceneDelegate.swift in Sources */,
+				B445EF46241BC3710042FC61 /* cardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
